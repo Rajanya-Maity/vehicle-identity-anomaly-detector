@@ -1,0 +1,19 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local dataset
+data/IndianVehicleDataset/
+
+# Generated/local data
+data/*.csv
+results/
+
+# MySQL/local configuration
+.env
+
+# VS Code settings
+.vscode/
